@@ -34,7 +34,8 @@ The program simulates a road network with varying traffic conditions and road cl
    ```sh
    gcc  final_sub.c -o final_sub
   
-2. Run the Program  :
+2. Run the Program :
+   ```sh
    ./final-sub
 
 ## Dependencies
@@ -43,5 +44,5 @@ Standard C library (stdlib.h, stdio.h, stdbool.h, limits.h, time.h, unistd.h)
 ## Contributing
 Feel free to submit issues and pull requests. Contributions are welcome!
 
-##Author
+##Author :-
 Rohan Gupta
